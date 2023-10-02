@@ -18,3 +18,7 @@ https://arxiv.org/abs/2211.14758
 https://opentalker.github.io/video-retalking/
 
 ## Output
+
+https://github.com/camenduru/video-retalking-colab/assets/54370274/45d8787a-dd48-48c4-9caf-87e76de99c3f
+
+https://github.com/camenduru/video-retalking-colab/assets/54370274/f5d9d275-4a61-4540-939c-068d8dd74cb9
